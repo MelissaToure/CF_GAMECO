@@ -1,4 +1,4 @@
-# CF_GameCo
+# CF_GAMECO
 
 **Introduction**
 
