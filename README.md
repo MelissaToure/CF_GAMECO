@@ -10,4 +10,4 @@
 
 **Deliverables**
 
-Gslides presentation [Here](https://docs.google.com/presentation/d/1gK0Oz7uwhUjIJ6HaFiY-toxk0ud-cEdl_Cp0cSBanZM/edit?usp=sharing)
+Gslides presentation [Here](https://docs.google.com/presentation/d/1gK0Oz7uwhUjIJ6HaFiY-toxk0ud-cEdl_Cp0cSBanZM/edit?usp=sharing). Additionally, find my Tableau dashboard displaying a historical overview of the games' sales across the North American, European, and Japanese markets [here](https://public.tableau.com/app/profile/m.lissa.tour./viz/VideoGamesSales_17024239784370/Dashboard1)
