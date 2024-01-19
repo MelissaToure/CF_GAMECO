@@ -2,7 +2,7 @@
 
 **Introduction**
 
-> The project aim to use data to inform the development of games by performing a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s games might fare in the global market.
+> The project aim to use data to inform the development of games by performing a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s games might fare in the global market, and assist the marketing team in making informed decisions about their budget allocation.
 
 **Hypothese challenged**
 
